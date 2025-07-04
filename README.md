@@ -14,4 +14,5 @@ https://www.tinkercad.com/things/0Znb6Sq0CVW/editel?returnTo=/dashboard
 ## Simulation demo video drive link:
 https://drive.google.com/file/d/1tV0msZR5bMHGdyeYF2TE0YHzARyN-UxM/view?usp=drive_link
 
-## Submitted by P.V.S.R.TEJESH (VIT_22BEC0717) for L&T EduTech Industrial Applications of microcontrollers - a practice based approach -project.
+## Submitted by P.V.S.R.TEJESH (VIT_22BEC0717) for L&T EduTech Industrial Applications of microcontrollers - a practice based approach - project name: Real-time occupancy detection
+system
