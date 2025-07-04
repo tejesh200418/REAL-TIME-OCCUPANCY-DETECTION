@@ -1,8 +1,8 @@
-# Real-Time Occupancy Detection System
+# Real-Time Occupancy Detection System - Aim:
 
-This project simulates a real-time human occupancy detection system using Arduino, PIR sensor, and LCD display. It turns ON an LED and displays status based on detected motion.
+ This project simulates a real-time human occupancy detection system using Arduino, PIR sensor, and LCD display. It turns ON an LED and displays status based on detected motion.
 
-## Features
+## Results:
 - Detects human motion using PIR sensor
 - Turns ON an LED upon detection
 - Displays "Occupied" or "Vacant" on LCD
